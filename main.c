@@ -8,5 +8,6 @@ int main (void)
 while(1)
 	{
 	//1
+	//2
 	}
 }
